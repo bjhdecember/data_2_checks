@@ -1,0 +1,47 @@
+{
+	"9wgGtOoL": {
+		"name": "Sample",
+		"src": "C:\\Users\\barba\\OneDrive\\Documents\\Sample",
+		"config": {},
+		"files": {
+			"C:\\Users\\barba\\OneDrive\\Documents\\Sample\\js\\MenuToggle.js": {
+				"id": "TdgQK2H4",
+				"pid": "9wgGtOoL",
+				"compiler": "uglifyjs",
+				"name": "MenuToggle.js",
+				"src": "C:\\Users\\barba\\OneDrive\\Documents\\Sample\\js\\MenuToggle.js",
+				"output": "C:\\Users\\barba\\OneDrive\\Documents\\Sample\\js\\MenuToggle.min.js",
+				"compile": false,
+				"watch": true,
+				"category": "javascript",
+				"settings": {
+					"compress": true,
+					"comments": false,
+					"harmony": false
+				}
+			},
+			"C:\\Users\\barba\\OneDrive\\Documents\\Sample\\sass\\styles.scss": {
+				"id": "B3IA3umn",
+				"pid": "9wgGtOoL",
+				"compiler": "sass",
+				"name": "styles.scss",
+				"src": "C:\\Users\\barba\\OneDrive\\Documents\\Sample\\sass\\styles.scss",
+				"output": "C:\\Users\\barba\\OneDrive\\Documents\\Sample\\css\\styles.css",
+				"compile": true,
+				"watch": true,
+				"category": "style",
+				"settings": {
+					"compass": false,
+					"sourceMap": true,
+					"lineComments": false,
+					"debugInfo": false,
+					"unixNewlines": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "nested"
+				}
+			}
+		},
+		"id": "9wgGtOoL"
+	}
+}
